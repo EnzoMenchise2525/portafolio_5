@@ -10,5 +10,7 @@
 
 ### Demo Screenshots
 
-<img src="assets/images/index_mashmello.png" alt="Desktop Demo" width="400"/>
-<img src="assets/images/index_mashmello2.png" alt="Desktop Demo" width="400"/>
+<p align="center">
+  <img src="assets/images/index_mashmello.png" alt="Desktop Demo" width="100%" />
+  <img src="assets/images/index_mashmello2.png" alt="Desktop Demo" width="100%" />
+</p>
