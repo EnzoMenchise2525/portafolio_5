@@ -10,5 +10,7 @@
 
 ### Demo Screenshots
 
-![Portfolio Desktop Demo](assets/images/index_mashmello.png "Desktop Demo")
-![Portfolio Desktop Demo](assets/images/index_mashmello2.png "Desktop Demo")
+<p align="center">
+  <img src="assets/images/index_mashmello.png" alt="Desktop Demo" width="45%" />
+  <img src="assets/images/index_mashmello2.png" alt="Desktop Demo" width="45%" />
+</p>
