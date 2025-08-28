@@ -10,5 +10,5 @@
 
 ### Demo Screenshots
 
-![Portfolio Desktop Demo](assets/images/index_maschmello.png "Desktop Demo")
-![Portfolio Desktop Demo](assets/images/index_maschmello2.png "Desktop Demo")
+![Portfolio Desktop Demo](assets/images/index_mashmello.png "Desktop Demo")
+![Portfolio Desktop Demo](assets/images/index_mashmello2.png "Desktop Demo")
